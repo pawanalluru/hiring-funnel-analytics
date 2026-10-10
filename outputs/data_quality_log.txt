@@ -1,0 +1,6 @@
+Standardised text casing/whitespace (e.g. unique sources now: ['Job Portal', 'LinkedIn', 'Referral', 'Vendor', 'Walk-in'])
+Filled 61 missing candidate sources with 'Unknown'
+Removed 40 duplicate candidate rows
+Removed 30 duplicate stage events
+Dropped 15 stage events dated before the application date
+Referential integrity check passed (all candidates map to a requisition)

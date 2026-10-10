@@ -1,0 +1,4 @@
+Funnel: 2,567 applied -> 196 joined (7.6%)
+Requisitions filled: 101 of 150 | avg time-to-fill 39.4 days | SLA breached 47%
+Best vendor: Apex Staffing (12.7%) | Weakest: EdgeWorkforce (2.6%)
+Naive 3-month moving-average forecast backtest MAPE: 35% (a baseline to beat, not a finished model)

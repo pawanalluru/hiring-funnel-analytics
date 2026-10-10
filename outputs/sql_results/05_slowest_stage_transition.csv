@@ -1,0 +1,5 @@
+transition,candidates,avg_days
+Applied -> Screening,1535,7.1
+Technical Interview -> Offer,250,7.0
+Offer -> Joined,196,6.9
+Screening -> Technical Interview,788,6.9

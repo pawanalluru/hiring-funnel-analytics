@@ -1,0 +1,102 @@
+requisition_id,role,skill_family,location,open_date,sla_days,first_join,time_to_fill,sla_breached
+REQ1000,DevOps Engineer,DevOps,Remote,2025-01-30,40,2025-03-21,50,True
+REQ1001,DevOps Engineer,DevOps,Remote,2025-09-13,45,2025-11-01,49,True
+REQ1003,Full Stack Engineer,Full Stack,Bengaluru,2025-05-25,30,2025-07-07,43,True
+REQ1004,Data Engineer,Data,Pune,2025-05-23,45,2025-07-08,46,True
+REQ1006,DevOps Engineer,DevOps,Bengaluru,2025-01-29,35,2025-02-25,27,False
+REQ1007,Data Engineer,Data,Chennai,2025-08-19,40,2025-09-17,29,False
+REQ1008,Cloud Engineer,Cloud,Remote,2025-03-08,45,2025-03-27,19,False
+REQ1009,Cloud Engineer,Cloud,Bengaluru,2025-02-01,45,2025-03-17,44,False
+REQ1011,Full Stack Engineer,Full Stack,Bengaluru,2025-11-18,35,2026-01-11,54,True
+REQ1013,Cloud Engineer,Cloud,Pune,2025-09-09,35,2025-10-15,36,True
+REQ1014,Full Stack Engineer,Full Stack,Bengaluru,2025-08-25,40,2025-10-20,56,True
+REQ1015,Cloud Engineer,Cloud,Remote,2025-09-17,40,2025-10-28,41,True
+REQ1016,Full Stack Engineer,Full Stack,Bengaluru,2025-06-19,30,2025-08-01,43,True
+REQ1017,DevOps Engineer,DevOps,Pune,2025-02-12,35,2025-03-17,33,False
+REQ1018,DevOps Engineer,DevOps,Bengaluru,2025-10-05,30,2025-11-27,53,True
+REQ1019,DevOps Engineer,DevOps,Remote,2025-05-29,30,2025-08-02,65,True
+REQ1020,Full Stack Engineer,Full Stack,Chennai,2025-06-15,35,2025-07-11,26,False
+REQ1021,DevOps Engineer,DevOps,Remote,2025-05-03,35,2025-06-15,43,True
+REQ1023,Cloud Engineer,Cloud,Pune,2025-11-02,35,2025-11-27,25,False
+REQ1024,SAP Engineer,SAP,Chennai,2025-09-15,40,2025-11-12,58,True
+REQ1025,SAP Engineer,SAP,Chennai,2025-08-01,30,2025-08-23,22,False
+REQ1027,DevOps Engineer,DevOps,Bengaluru,2025-09-29,35,2025-11-15,47,True
+REQ1028,SAP Engineer,SAP,Chennai,2025-06-29,40,2025-08-04,36,False
+REQ1029,Data Engineer,Data,Bengaluru,2025-05-27,35,2025-07-03,37,True
+REQ1030,Full Stack Engineer,Full Stack,Hyderabad,2025-05-29,40,2025-07-23,55,True
+REQ1032,DevOps Engineer,DevOps,Hyderabad,2025-01-31,35,2025-02-23,23,False
+REQ1034,SAP Engineer,SAP,Pune,2025-10-21,30,2025-12-22,62,True
+REQ1036,Cloud Engineer,Cloud,Hyderabad,2025-10-11,30,2025-11-07,27,False
+REQ1037,DevOps Engineer,DevOps,Pune,2025-10-01,35,2025-11-05,35,False
+REQ1038,Full Stack Engineer,Full Stack,Chennai,2025-04-02,45,2025-05-31,59,True
+REQ1039,Cloud Engineer,Cloud,Chennai,2025-07-28,45,2025-08-27,30,False
+REQ1040,Data Engineer,Data,Remote,2025-02-24,40,2025-03-20,24,False
+REQ1041,Data Engineer,Data,Remote,2025-09-08,45,2025-10-04,26,False
+REQ1042,Full Stack Engineer,Full Stack,Chennai,2025-08-20,45,2025-10-18,59,True
+REQ1043,DevOps Engineer,DevOps,Chennai,2025-04-27,35,2025-06-27,61,True
+REQ1046,Full Stack Engineer,Full Stack,Bengaluru,2025-05-28,35,2025-06-29,32,False
+REQ1047,Cloud Engineer,Cloud,Hyderabad,2025-10-22,40,2025-11-20,29,False
+REQ1048,DevOps Engineer,DevOps,Remote,2025-08-12,45,2025-10-03,52,True
+REQ1049,Cloud Engineer,Cloud,Pune,2025-09-14,45,2025-10-23,39,False
+REQ1054,Full Stack Engineer,Full Stack,Hyderabad,2025-06-14,40,2025-07-29,45,True
+REQ1055,Cloud Engineer,Cloud,Pune,2025-01-15,40,2025-02-25,41,True
+REQ1056,SAP Engineer,SAP,Pune,2025-06-30,45,2025-08-05,36,False
+REQ1057,Full Stack Engineer,Full Stack,Hyderabad,2025-02-20,40,2025-04-04,43,True
+REQ1058,DevOps Engineer,DevOps,Hyderabad,2025-09-03,30,2025-10-28,55,True
+REQ1060,Cloud Engineer,Cloud,Remote,2025-11-01,30,2025-11-29,28,False
+REQ1061,SAP Engineer,SAP,Chennai,2025-09-03,40,2025-09-28,25,False
+REQ1062,Full Stack Engineer,Full Stack,Remote,2025-05-01,30,2025-05-26,25,False
+REQ1063,Data Engineer,Data,Remote,2025-11-16,30,2026-01-03,48,True
+REQ1065,Full Stack Engineer,Full Stack,Bengaluru,2025-04-18,40,2025-06-01,44,True
+REQ1067,SAP Engineer,SAP,Bengaluru,2025-05-03,45,2025-05-29,26,False
+REQ1068,Full Stack Engineer,Full Stack,Pune,2025-01-26,45,2025-02-28,33,False
+REQ1069,Full Stack Engineer,Full Stack,Pune,2025-06-04,30,2025-07-23,49,True
+REQ1070,DevOps Engineer,DevOps,Hyderabad,2025-09-20,45,2025-11-03,44,False
+REQ1071,DevOps Engineer,DevOps,Bengaluru,2025-03-04,40,2025-04-08,35,False
+REQ1072,Full Stack Engineer,Full Stack,Bengaluru,2025-06-02,40,2025-06-27,25,False
+REQ1073,DevOps Engineer,DevOps,Remote,2025-02-12,30,2025-03-26,42,True
+REQ1074,Cloud Engineer,Cloud,Hyderabad,2025-08-15,40,2025-09-13,29,False
+REQ1075,Data Engineer,Data,Hyderabad,2025-06-06,40,2025-07-16,40,False
+REQ1076,Data Engineer,Data,Remote,2025-04-19,40,2025-05-31,42,True
+REQ1080,Full Stack Engineer,Full Stack,Pune,2025-11-07,40,2025-12-13,36,False
+REQ1081,DevOps Engineer,DevOps,Bengaluru,2025-05-25,30,2025-07-10,46,True
+REQ1083,Full Stack Engineer,Full Stack,Hyderabad,2025-10-02,45,2025-11-09,38,False
+REQ1087,Cloud Engineer,Cloud,Bengaluru,2025-04-14,40,2025-05-24,40,False
+REQ1088,Cloud Engineer,Cloud,Pune,2025-09-11,35,2025-10-24,43,True
+REQ1091,Data Engineer,Data,Bengaluru,2025-09-23,45,2025-10-17,24,False
+REQ1092,Data Engineer,Data,Bengaluru,2025-10-05,45,2025-11-19,45,False
+REQ1093,DevOps Engineer,DevOps,Bengaluru,2025-05-08,45,2025-06-11,34,False
+REQ1094,SAP Engineer,SAP,Remote,2025-10-24,30,2025-11-25,32,True
+REQ1095,DevOps Engineer,DevOps,Bengaluru,2025-04-06,35,2025-05-31,55,True
+REQ1096,Full Stack Engineer,Full Stack,Pune,2025-03-21,40,2025-05-11,51,True
+REQ1097,DevOps Engineer,DevOps,Pune,2025-08-14,40,2025-09-14,31,False
+REQ1101,DevOps Engineer,DevOps,Hyderabad,2025-03-07,40,2025-04-26,50,True
+REQ1102,SAP Engineer,SAP,Remote,2025-09-23,30,2025-11-08,46,True
+REQ1103,Data Engineer,Data,Hyderabad,2025-01-03,30,2025-02-15,43,True
+REQ1104,Full Stack Engineer,Full Stack,Remote,2025-09-20,30,2025-10-29,39,True
+REQ1105,Data Engineer,Data,Pune,2025-09-17,40,2025-10-22,35,False
+REQ1107,Full Stack Engineer,Full Stack,Remote,2025-08-08,40,2025-09-17,40,False
+REQ1108,DevOps Engineer,DevOps,Chennai,2025-06-05,35,2025-07-03,28,False
+REQ1109,Data Engineer,Data,Remote,2025-08-21,35,2025-09-19,29,False
+REQ1110,Full Stack Engineer,Full Stack,Pune,2025-04-02,40,2025-05-26,54,True
+REQ1111,DevOps Engineer,DevOps,Bengaluru,2025-09-15,40,2025-10-19,34,False
+REQ1114,DevOps Engineer,DevOps,Remote,2025-06-16,45,2025-07-19,33,False
+REQ1119,Cloud Engineer,Cloud,Pune,2025-02-07,40,2025-03-11,32,False
+REQ1120,Cloud Engineer,Cloud,Remote,2025-05-26,30,2025-06-24,29,False
+REQ1121,Full Stack Engineer,Full Stack,Pune,2025-08-09,45,2025-09-09,31,False
+REQ1122,Data Engineer,Data,Hyderabad,2025-08-04,45,2025-09-20,47,True
+REQ1125,Data Engineer,Data,Hyderabad,2025-07-06,30,2025-09-01,57,True
+REQ1126,SAP Engineer,SAP,Remote,2025-01-27,40,2025-03-01,33,False
+REQ1128,Cloud Engineer,Cloud,Remote,2025-07-09,35,2025-09-06,59,True
+REQ1129,Cloud Engineer,Cloud,Bengaluru,2025-07-29,40,2025-10-02,65,True
+REQ1131,Cloud Engineer,Cloud,Remote,2025-07-02,35,2025-08-12,41,True
+REQ1133,Cloud Engineer,Cloud,Bengaluru,2025-07-04,45,2025-07-24,20,False
+REQ1134,Full Stack Engineer,Full Stack,Pune,2025-09-20,30,2025-10-26,36,True
+REQ1135,Full Stack Engineer,Full Stack,Remote,2025-04-11,40,2025-05-27,46,True
+REQ1136,Full Stack Engineer,Full Stack,Chennai,2025-07-18,40,2025-08-16,29,False
+REQ1139,Full Stack Engineer,Full Stack,Remote,2025-05-25,45,2025-07-09,45,False
+REQ1140,Full Stack Engineer,Full Stack,Remote,2025-11-21,45,2025-12-28,37,False
+REQ1144,DevOps Engineer,DevOps,Hyderabad,2025-11-24,45,2025-12-29,35,False
+REQ1145,DevOps Engineer,DevOps,Remote,2025-10-09,35,2025-11-09,31,False
+REQ1146,Full Stack Engineer,Full Stack,Pune,2025-01-12,40,2025-02-19,38,False
+REQ1148,SAP Engineer,SAP,Chennai,2025-09-29,35,2025-10-15,16,False

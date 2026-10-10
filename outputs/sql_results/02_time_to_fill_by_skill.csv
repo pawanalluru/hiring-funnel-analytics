@@ -1,0 +1,6 @@
+skill_family,filled_requisitions,avg_time_to_fill_days,fastest_days,slowest_days,pct_sla_breached
+SAP,11,35.6,16,62,36.4
+Cloud,20,35.9,19,65,35.0
+Data,15,38.1,24,57,46.7
+Full Stack,29,41.8,25,59,55.2
+DevOps,26,42.0,23,65,50.0
